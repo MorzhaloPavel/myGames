@@ -1,0 +1,24 @@
+.CardBoard {
+  box-sizing: border-box;
+  padding: 0;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 50px 0 0 0;
+}
+.FinishGames {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  border: 1px solid #fff;
+  border-radius: 20px;
+  height: 340px;
+  align-items: center;
+}
+.FinishGames h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 100px;
+  font-weight: 900;
+  color: #fff;
+}
